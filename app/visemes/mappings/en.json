@@ -1,0 +1,24 @@
+{
+  "p": "PP", "b": "PP", "m": "PP",
+  "f": "FF", "v": "FF",
+  "θ": "TH", "ð": "TH",
+  "t": "DD", "d": "DD", "n": "DD",
+  "s": "SS", "z": "SS",
+  "ʃ": "SH", "ʒ": "SH", "tʃ": "CH", "dʒ": "CH",
+  "k": "KK", "g": "KK", "ŋ": "KK",
+  "ɑ": "AA", "æ": "AA", "ʌ": "AA",
+  "i": "E", "ɪ": "E", "eɪ": "E", "ɛ": "E",
+  "ɔ": "OH", "oʊ": "OH",
+  "u": "OO", "ʊ": "OO",
+  "ə": "E", "ɝ": "RR", "r": "RR", "l": "LL", "w": "WW", "j": "E",
+  "hh": "sil", "sil": "sil", "sp": "sil",
+
+  "aa": "AA", "ae": "AA", "ah": "AA", "ao": "OH", "aw": "AA", "ay": "E",
+  "eh": "E", "er": "RR", "ey": "E", "ih": "E", "iy": "E",
+  "ow": "OH", "oy": "OH", "uh": "OO", "uw": "OO",
+  "ch": "CH", "jh": "CH", "dh": "TH", "th": "TH", "sh": "SH", "zh": "SH",
+  "ng": "KK", "r": "RR", "l": "LL", "w": "WW", "y": "E",
+  "b": "PP", "p": "PP", "m": "PP", "f": "FF", "v": "FF",
+  "d": "DD", "t": "DD", "n": "DD", "s": "SS", "z": "SS", "k": "KK",
+  "g": "KK", "dx": "DD"
+}

@@ -1,0 +1,30 @@
+# Python bytecode and tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and build artifacts
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# Local configuration
+.env
+
+# Generated runtime data and downloaded models
+data/tmp/
+data/output/
+models/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

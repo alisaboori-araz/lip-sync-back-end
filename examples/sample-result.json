@@ -1,0 +1,11 @@
+{
+  "duration": 0.2,
+  "interval": 0.04,
+  "events": [
+    {"time": 0.0, "viseme": "sil"},
+    {"time": 0.04, "viseme": "PP"},
+    {"time": 0.08, "viseme": "PP"},
+    {"time": 0.12, "viseme": "sil"},
+    {"time": 0.16, "viseme": "sil"}
+  ]
+}
